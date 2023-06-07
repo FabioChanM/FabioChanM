@@ -1,4 +1,4 @@
-<h1 align="center"> ![153b896a654792ed644455537258](https://github.com/FabioChanM/FabioChanM/assets/99096561/b9ce73e4-96e4-4abb-89a1-eac169919bd1) </h1>
+![153b896a654792ed644455537258](https://github.com/FabioChanM/FabioChanM/assets/99096561/b9ce73e4-96e4-4abb-89a1-eac169919bd1)
 <h1 align="center">Hi 👋, I'm Fabio Chan</h1>
 <h3 align="center">A passionate programer, frontend developer from Mexico</h3>
 
